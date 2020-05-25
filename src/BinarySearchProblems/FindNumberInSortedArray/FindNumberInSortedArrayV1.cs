@@ -7,7 +7,7 @@ namespace BinarySearchProblems
     /// <summary>
     /// Problem : Find a number in sorted array
     /// </summary>
-    public class FindNumberInSortedArray
+    public class FindNumberInSortedArrayV1
     {
         public int Find(int[] values, int number)
         {
