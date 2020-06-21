@@ -11,7 +11,12 @@ namespace BinarySearchProblems
     {
         public int Search(int[] sortedArray)
         {
-            throw new NotImplementedException();
+            return Search(sortedArray, 0, sortedArray.Length - 1);
+        }
+
+        private int Search(int[] sortedArray, int low, int high)
+        {
+            return -1;
         }
     }
 }
