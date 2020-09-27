@@ -1,4 +1,4 @@
-﻿using BinarySearchProblems.FindNumberInSortedArray;
+using BinarySearchProblems.FindNumberInSortedArray;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
@@ -14,9 +14,9 @@ namespace BinarySearchProblems.Tests.FindNumberInSortedArray
         {
             //Given
             var values = new int[] { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            var value = 0;
+            var value = 7;
             var findNumberInSortedArray = new FindNumberInSortedArrayV3();
-            var expectedIndex = 0;
+            var expectedIndex = 7;
 
             //When
             var actualIndex = findNumberInSortedArray.Find(values, value);

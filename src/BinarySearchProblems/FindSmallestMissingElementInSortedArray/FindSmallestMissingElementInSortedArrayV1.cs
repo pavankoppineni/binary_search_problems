@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -16,7 +16,21 @@ namespace BinarySearchProblems
 
         private int Search(int[] sortedArray, int low, int high)
         {
-            return -1;
+            if (low > high)
+            {
+                return low;
+            }
+
+            var mid = (low + high) / 2;
+
+            if (sortedArray[mid] == mid)
+            {
+                return Search(sortedArray, mid + 1, high);
+            }
+            else
+            {
+                return Search(sortedArray, low, mid - 1);
+            }
         }
     }
 }
