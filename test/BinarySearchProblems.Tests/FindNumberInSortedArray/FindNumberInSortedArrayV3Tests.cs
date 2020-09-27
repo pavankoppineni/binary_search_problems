@@ -1,11 +1,11 @@
-﻿using BinarySearchProblems.FindNumberInSortedArray;
+using BinarySearchProblems.FindNumberInSortedArray;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace BinarySearchProblems.Tests.FindNumberInSortedArray
-{ 
+{
     [TestClass]
     public class FindNumberInSortedArrayV3Tests
     {
