@@ -42,7 +42,7 @@ namespace BinarySearchProblems.Tests.LevelOrderTraversalInSpiralForm
             var items = problem.Traverse(root);
 
             //Then
-            Assert.Fail();
+            Assert.Inconclusive();
         }
     }
 }
