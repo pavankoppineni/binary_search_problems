@@ -6,3 +6,4 @@
 * [Search an element in a circular sorted array](./src/BinarySearchProblems/FindNumberInCircularlySortedArray)
 * [Find number of rotations in a circularly sorted array](./src/BinarySearchProblems/FindNumberOfRotationsInACircularlySortedArray)
 * [Level order traversal in spiral form](./src/BinarySearchProblems/LevelOrderTraversalInSpiralForm/LevelOrderTraversalInSpiralFormV1.cs)
+* [Find smallest divisor given a threshold](./src/BinarySearchProblems/FindSmallestDivisorGivenThreshold/FindSmallestDivisorGivenThresholdV1.cs)
