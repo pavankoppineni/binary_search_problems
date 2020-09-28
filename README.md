@@ -5,4 +5,4 @@
 * [Find smallest missing element from a sorted array](./src/BinarySearchProblems/FindSmallestMissingElementInSortedArray)
 * [Search an element in a circular sorted array](./src/BinarySearchProblems/FindNumberInCircularlySortedArray)
 * [Find number of rotations in a circularly sorted array](./src/BinarySearchProblems/FindNumberOfRotationsInACircularlySortedArray)
-* [Level order traversal in spiral form](./src/BinarySearchProblems/LevelOrderTraversalInSpiralFormV1.cs)
+* [Level order traversal in spiral form](./src/BinarySearchProblems/LevelOrderTraversalInSpiralForm/LevelOrderTraversalInSpiralFormV1.cs)
