@@ -9,6 +9,7 @@ namespace BinarySearchProblems.Shell
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
