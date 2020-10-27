@@ -8,3 +8,4 @@
 * [Level order traversal in spiral form](./src/BinarySearchProblems/LevelOrderTraversalInSpiralForm/LevelOrderTraversalInSpiralFormV1.cs)
 * [Find smallest divisor given a threshold](./src/BinarySearchProblems/FindSmallestDivisorGivenThreshold/FindSmallestDivisorGivenThresholdV1.cs)
 * [Find the non repeating element in an array](./src/BinarySearchProblems/FindTheNonRepeatingElementInArray/FindTheNonRepeatingElementInArrayV1.cs)
+* [Calculate power of a number](./src/BinarySearchProblems/CalculatePowerOfNumber)
