@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="FindSmallestDivisorInArray\" />
+    <Compile Remove="FindSmallestDivisorInArray\**" />
+    <EmbeddedResource Remove="FindSmallestDivisorInArray\**" />
+    <None Remove="FindSmallestDivisorInArray\**" />
   </ItemGroup>
 
 </Project>
